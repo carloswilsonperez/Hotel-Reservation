@@ -1,5 +1,5 @@
 # Hotel-Reservation
 
-Project for the Udacit Java Nanodegree.
+Project for the Udacity Java Nanodegree.
 
 Compiled with Java 8.
